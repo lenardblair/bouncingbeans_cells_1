@@ -23,4 +23,4 @@ Krita
 --
 Rusty Raygun
 Rustyraygun.github.io
-https://twitter.com/RustyraygundevP
+
