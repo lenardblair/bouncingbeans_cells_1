@@ -3,6 +3,7 @@
 Note: HTML5 doesn't work properly in Chrome. Please use Firefox, Brave or another browser.
 
 Cells(i) | Mitosis: 
+https://lenardblair.github.io/bouncingbeans_cells_1/
 
 Summary: Use your observation skills to identify cell cycle phases and cell types. 
 
